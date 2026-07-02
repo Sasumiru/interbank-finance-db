@@ -22,7 +22,7 @@ PostgreSQL · Docker · Docker Compose · Python (Flask, psycopg2)
 
 ```bash
 git clone <repo-url>
-cd finance-db-project
+cd interbank-finance-db
 docker-compose up --build
 ```
 
